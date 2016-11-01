@@ -1,0 +1,10 @@
+git --version
+git config --global user.name "name"
+git config --global user.email "email"
+git init (To create a new repository on github)
+git status
+git diff (To compare versions with the last)
+Commit in git
+1. Check status
+2. git add yourfile.txt
+3. git commit -m "commit message"
